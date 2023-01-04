@@ -1,5 +1,5 @@
 # Raytracing
-This is a simple 3d-rendering python program using raytracing. The program renders 5 random spheres with different positions, sizes, colors and reflectivity along with a checkered floor and a sky.
+This is a simple 3d-rendering python program using raytracing. The program renders 5 random spheres with different positions, sizes, colors and reflectivity along with a checkered floor and a sky. It was made in the fall of 2021
 
 Example:
 
